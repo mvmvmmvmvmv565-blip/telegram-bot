@@ -3,7 +3,7 @@ from telebot import types
 import sqlite3
 import os
 
-API_TOKEN = '8662170998:AAHnD53ZjoxT1makPD1TJC5ET4Vl3iKWR4A'
+API_TOKEN = '8604946145:AAFokZV9qOhH-qHigCiPCCpmNGD06ks_BoI'
 bot = telebot.TeleBot(API_TOKEN)
 
 # قاعدة البيانات
